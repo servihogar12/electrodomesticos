@@ -32,3 +32,4 @@ Al ser una web estática, puedes desplegarla gratuitamente en:
 *   Netlify
 
 Simplemente sube el contenido de la carpeta `frontend` (o configura tu repositorio para que publique desde esa carpeta).
+"Trigger rebuild - $(date)" 
